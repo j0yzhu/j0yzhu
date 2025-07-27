@@ -33,7 +33,3 @@ I’m a recent Computer Science graduate from the University of Auckland with a 
 - API design and backend performance
 - Building products that make a real impact
 
----
-
-### ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ Let's Connect: 
-[LinkedIn](https://www.linkedin.com/in/joy-zhu-49640a278/)  
