@@ -3,8 +3,9 @@
 ## ≽^• ˕ • ྀི≼ About Me 
 I’m a recent Computer Science graduate from the University of Auckland with a strong passion for technology. I'm currently building my portfolio through mobile and web development projects, with a focus on creating user-friendly, accessible, and inclusive software. I have a keen eye for aesthetics and enjoy crafting intuitive designs that enhance the user experience. Eager to keep learning, I’m continuously developing my skills through personal projects.
 
+---
 
-### ⋆｡𖦹 °.🐚⋆❀˖°🫧 What I Do:
+### 🪼⋆.ೃ࿔*:･ What I Do:
  
 - Work across the stack with **Python** and **TypeScript**
 - Build RESTful APIs using **Flask**
@@ -31,10 +32,6 @@ I’m a recent Computer Science graduate from the University of Auckland with a 
 - Cloud deployment and DevOps fundamentals  
 - API design and backend performance
 - Building products that make a real impact
-
-
-### 🪼⋆.ೃ࿔*:･ Fun Fact: 
-I enjoy DIY crafts, photography, and digital design. I love blending creativity and tech through visuals, user experience, or code.
 
 ---
 
