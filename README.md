@@ -1,7 +1,7 @@
-### Kia Ora, Hello, 你好! I'm Joy 
+### Hi There! I'm Joy 
 
 ## ≽^• ˕ • ྀི≼ About Me 
-I’m a recent Computer Science graduate from the University of Auckland with a strong passion for technology. I'm currently building my portfolio through mobile and web development projects, with a focus on creating user-friendly, accessible, and inclusive software. I have a keen eye for aesthetics and enjoy crafting intuitive designs that enhance the user experience. Eager to keep learning, I’m continuously developing my skills through personal projects.
+I’m a Service Desk Analyst with a strong Computer Science background, passionate about building and designing interactive frontends for mobile and web applications. I enjoy crafting intuitive user journeys and creating experiences that feel seamless and engaging. I’m continuously developing my skills through personal projects, while also expanding my capabilities in backend development.
 
 ---
 
@@ -29,7 +29,9 @@ I’m a recent Computer Science graduate from the University of Auckland with a 
 ### ₊˚ʚ 🌱 ₊˚✧ ﾟ. Areas I’m Exploring:
  
 - Building more polished mobile and web UIs  
-- Cloud deployment and DevOps fundamentals  
+- Cloud deployment and DevOps fundamentals
+- AI/ML
+- Cybersecurity
 - API design and backend performance
 - Building products that make a real impact
 
