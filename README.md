@@ -1,6 +1,5 @@
-### Hi There! I'm Joy 
+# Hey There! I'm Joy 
 
-## ≽^• ˕ • ྀི≼ About Me 
 I’m a Service Desk Analyst with a strong Computer Science background, passionate about building and designing interactive frontends for mobile and web applications. I enjoy crafting intuitive user journeys and creating experiences that feel seamless and engaging. I’m continuously developing my skills through personal projects, while also expanding my capabilities in backend development.
 
 ---
